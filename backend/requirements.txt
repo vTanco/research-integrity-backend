@@ -5,3 +5,4 @@ PyMuPDF
 python-dotenv
 requests
 beautifulsoup4
+python-multipart
